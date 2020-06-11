@@ -27,6 +27,8 @@ This will scan your system for malicous software and remove it.
 OpenCommand prompt in admin mode, this is usually found by right clicking the start button and opening Command Prompt.  
 Type: 
 > dism.exe /Online /Cleanup-image /Restorehealth   
+>
 and hit enter.  
 Then  
 > sfc /scannow
+>
