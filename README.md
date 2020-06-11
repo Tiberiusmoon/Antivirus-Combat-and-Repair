@@ -28,11 +28,11 @@ This will scan your system for malicous software and remove it.
 OpenCommand prompt in admin mode, this is usually found by right clicking the start button and opening Command Prompt.  
 Type: 
 > dism.exe /Online /Cleanup-image /Restorehealth   
->
+
 and hit enter.  
 Then  
 > sfc /scannow
->
+
 If both scan's report that fixes/repairs have been made then its a good sign your system has been repaired.  
 If it fails then more work is needed to remove the virus. (see the hard way)  
 
