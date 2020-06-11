@@ -47,7 +47,7 @@ Option 2:
 - Open your task manager and browse through your running apps.  
 - If you see a app that looks suspicous look up the name of the app in google search like so:
 > Is drgjytf.exe a virus?  
->  
+
 Then once you find the app, go to This PC and click the search on the top right.  
 Type in the name of the suspicous app and search.  
 
