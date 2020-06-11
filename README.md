@@ -1,4 +1,7 @@
-### Here i will guide you through recovering your Windows 10 OS from an infection.
+#### Here i will guide you through recovering your Windows 10 OS from an infection.
 
 
-## Sign's of infection:
+### Sign's of infection:
+
+When a virus is infected on to your system, icon's and taskbars can flicker breifly.
+Slower than usual
