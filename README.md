@@ -37,7 +37,7 @@ If both scan's report that fixes/repairs have been made then its a good sign you
 If it fails then more work is needed to remove the virus. (see the hard way)  
 
 
-### You wanna do this the hard way? we can do this the hard way!
+### You wanna do this the hard way? We can do this the hard way!
 
 Some viruses can be persistent and require special treatment.  
 
@@ -51,13 +51,13 @@ Option 2:
 Then once you find the app, go to This PC and click the search on the top right.  
 Type in the name of the suspicous app and search.  
 
-Once you find the location of the file you will most likely not be able to just simply delete it while its running.  
+Once you find the location of the file you will most likely not be able to just simply delete it while it's running.  
 You will have to do this through safe mode, take note of the files location.  
 Open the start menu > click power > Hold the shift key and click restart.  
-Once in the menu go to: Toubleshoot > Advanced Options > Startup Settings and click restart.  
+Once in the menu go to: Troubleshoot > Advanced Options > Startup Settings and click restart.  
 Then select option 4: Enable Safe Mode and you will start windows 10 in safe mode.  
 Now navigate to the files location and choose to delete the file.  
-If the file has a folder with a similar name with other files in it, delete those aswell.  
+If the file has a folder with a similar name with other files in it, delete those as well.  
 Now restart windows normally and follow the repairing the damage and cleaning up section in that order.  
 
 
@@ -72,6 +72,6 @@ If you wish to do further cleaning see my guide here in section 5: https://tiber
 
 
 
-That should resolve the most basic infections to your system, if you have a particularly nasty infection google search the virus in question for idea's or reinstall your OS.
+That should resolve the most basic infections to your system, if you have a particularly nasty infection, Google search the virus in question for ideas or reinstall your OS.
 
 Good luck and try to have fun!
