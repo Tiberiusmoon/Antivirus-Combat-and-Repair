@@ -1,31 +1,31 @@
-#### Here i will guide you through recovering your Windows 10 OS from an infection.
+#### Here I will guide you through recovering your Windows 10 OS from an infection.
 This guide is only for some viruses and can't help you against ransomware!
 
 
-### Sign's of infection:  
+### Signs of infection:  
 
-- When a virus is infected on to your system, icon's and taskbars can flicker breifly.  
-- Slower than usual performance while gaming or high background usage that mysteriously dissappears when you open task manager.  
+- When a virus is infected on to your system, icons and taskbars can flicker breifly.  
+- Slower than usual performance while gaming or high background usage that mysteriously disappears when you open task manager.  
 - Multiple Apps not working that are usually fine.  
 - Windows Update is not working.  
 
-These are only a few sign's of infection, some can be unique, obvious or subtle.  
+These are only a few signs of infection, some can be unique, obvious or subtle.  
 
 
 ### Removal of the virus:  
 
-Using a well known antivirus is great for preventing infection; BUT! in some cases it is totally useless if you do not update your system or its trail has expired.  
-At this time of writing i prefer (Malwarebytes)[https://www.malwarebytes.com/premium/]. But like all technology it changes and evolves which is why its important to read up on the latest info.  
+Using a well known antivirus is great for preventing infection; BUT! in some cases it is totally useless if you do not update your system or its trial has expired.  
+At this time of writing i prefer [Malwarebytes](https://www.malwarebytes.com/premium/). But like all technology it changes and evolves which is why its important to read up on the latest info.  
 
-First lets use Malwarebytes Antirootkit to scan you system https://www.malwarebytes.com/antirootkit/  
+First, lets use Malwarebytes Antirootkit to scan you system. https://www.malwarebytes.com/antirootkit/  
 When you extract and run the app click the update button before scanning.  
-This will scan your system for malicous software and remove it.  
+This will scan your system for malicious software and remove it.  
 (if this part fails, try this again after following the repairing section)
 
 
 ### Repairing the damage:  
 
-OpenCommand prompt in admin mode, this is usually found by right clicking the start button and opening Command Prompt.  
+Open Command prompt in admin mode, this is usually found by right clicking the start button and opening Command Prompt.  
 Type: 
 > dism.exe /Online /Cleanup-image /Restorehealth   
 
