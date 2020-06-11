@@ -10,9 +10,23 @@
 
 These are only a few sign's of infection, some can be unique, obvious or subtle.  
 
+
 #### Removal of the virus:  
 
 Using a well known antivirus is great for preventing infection; BUT! in some cases it is totally useless if you do not update your system or its trail has expired.  
-At this time of writing i prefer (Malwarebytes)[https://www.malwarebytes.com/premium/]. But like all technology it changes and evolves why is why its important to read up on the latest info.  
+At this time of writing i prefer (Malwarebytes)[https://www.malwarebytes.com/premium/]. But like all technology it changes and evolves which is why its important to read up on the latest info.  
 
-First lets use
+First lets use Malwarebytes Antirootkit to scan you system https://www.malwarebytes.com/antirootkit/  
+When you extract and run the app click the update button before scanning.  
+This will scan your system for malicous software and remove it.  
+(if this part fails, try this again after following the repairing section)
+
+
+#### Repairing the damage:  
+
+OpenCommand prompt in admin mode, this is usually found by right clicking the start button and opening Command Prompt.  
+Type: 
+> dism.exe /Online /Cleanup-image /Restorehealth   
+and hit enter.  
+Then  
+> sfc /scannow
