@@ -74,4 +74,8 @@ If you wish to do further cleaning see my guide here in section 5: https://tiber
 
 That should resolve the most basic infections to your system, if you have a particularly nasty infection, Google search the virus in question for ideas or reinstall your OS.
 
-Good luck and try to have fun!
+Good luck!  
+
+Other useful guides:  
+[Tibs Guide to Windows 10] (https://tiberiusmoon.github.io/Tibs-Guide-to-Windows-10/)  
+[Tibs Guide to Troubleshooting] (https://tiberiusmoon.github.io/Tibs-Guide-to-Troubleshooting/)
