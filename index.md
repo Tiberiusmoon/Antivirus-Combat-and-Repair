@@ -77,5 +77,5 @@ That should resolve the most basic infections to your system, if you have a part
 Good luck!  
 
 Other useful guides:  
-[Tibs Guide to Windows 10] (https://tiberiusmoon.github.io/Tibs-Guide-to-Windows-10/)  
-[Tibs Guide to Troubleshooting] (https://tiberiusmoon.github.io/Tibs-Guide-to-Troubleshooting/)
+[Tibs Guide to Windows 10](https://tiberiusmoon.github.io/Tibs-Guide-to-Windows-10/)  
+[Tibs Guide to Troubleshooting](https://tiberiusmoon.github.io/Tibs-Guide-to-Troubleshooting/)
