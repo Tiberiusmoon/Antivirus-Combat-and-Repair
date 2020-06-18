@@ -2,7 +2,7 @@
 This guide is only for some viruses and can't help you against ransomware!
 
 
-### Signs of infection:  
+### 1.Signs of infection:  
 
 - When a virus is infected on to your system, icons and taskbars can flicker breifly.  
 - Slower than usual performance while gaming or high background usage that mysteriously disappears when you open task manager.  
@@ -12,7 +12,7 @@ This guide is only for some viruses and can't help you against ransomware!
 These are only a few signs of infection, some can be unique, obvious or subtle.  
 
 
-### Removal of the virus:  
+### 2.Removal of the virus:  
 
 Using a well known antivirus is great for preventing infection; BUT! in some cases it is totally useless if you do not update your system or its trial has expired.  
 At this time of writing i prefer [Malwarebytes](https://www.malwarebytes.com/premium/). But like all technology it changes and evolves which is why its important to read up on the latest info.  
@@ -23,7 +23,7 @@ This will scan your system for malicious software and remove it.
 (if this part fails, try this again after following the repairing section)
 
 
-### Repairing the damage:  
+### 3.Repairing the damage:  
 
 Open Command prompt in admin mode, this is usually found by right clicking the start button and opening Command Prompt.  
 Type: 
@@ -37,7 +37,7 @@ If both scan's report that fixes/repairs have been made then its a good sign you
 If it fails then more work is needed to remove the virus. (see the hard way)  
 
 
-### You wanna do this the hard way? We can do this the hard way!
+### 4.You wanna do this the hard way? We can do this the hard way!
 
 Some viruses can be persistent and require special treatment.  
 
@@ -61,7 +61,7 @@ If the file has a folder with a similar name with other files in it, delete thos
 Now restart windows normally and follow the repairing the damage and cleaning up section in that order.  
 
 
-### Cleaning up:
+### 5.Cleaning up:
 
 First uninstall all antiviruses on system that is not Windows Defender.
 Check windows update for updates.  
